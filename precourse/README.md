@@ -1,0 +1,8 @@
+# Installation Preparation
+We request that students install __Python version 3.8-3.11__ prior to the start of the CDT course. Additionally, please install the following python packages:
+- [Jupyter Notebook](https://docs.jupyter.org/en/latest/install/notebook-classic.html)
+- [NumPy version 1.18.5 or greater](https://numpy.org/install/)
+- [SciPy version 1.9.0 or greater](https://scipy.org/install/)
+- [Pandas](https://pandas.pydata.org/docs/getting_started/install.html)
+- [scikit-learn](https://scikit-learn.org/stable/install.html) 
+
