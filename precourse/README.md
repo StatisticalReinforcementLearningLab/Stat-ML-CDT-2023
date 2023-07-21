@@ -6,4 +6,4 @@ We request that students install __Python version 3.8-3.11__ prior to the start 
 - [Pandas](https://pandas.pydata.org/docs/getting_started/install.html)
 - [scikit-learn](https://scikit-learn.org/stable/install.html) 
 
-# [Your Breakout Group](https://github.com/StatisticalReinforcementLearningLab/Stat-ML-CDT-2023/tree/main/precourse)
+[Breakout Groups](https://github.com/StatisticalReinforcementLearningLab/Stat-ML-CDT-2023/tree/main/precourse)
