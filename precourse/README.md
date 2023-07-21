@@ -1,4 +1,4 @@
-# Installation Preparation
+![image](https://github.com/StatisticalReinforcementLearningLab/Stat-ML-CDT-2023/assets/15145153/be88e926-1984-4ba2-8411-c5f863113261)# Installation Preparation
 We request that students install __Python version 3.8-3.11__ prior to the start of the CDT course. Additionally, please install the following python packages:
 - [Jupyter Notebook](https://docs.jupyter.org/en/latest/install/notebook-classic.html)
 - [NumPy version 1.18.5 or greater](https://numpy.org/install/)
@@ -6,3 +6,4 @@ We request that students install __Python version 3.8-3.11__ prior to the start 
 - [Pandas](https://pandas.pydata.org/docs/getting_started/install.html)
 - [scikit-learn](https://scikit-learn.org/stable/install.html) 
 
+# [Your Breakout Group](https://github.com/StatisticalReinforcementLearningLab/Stat-ML-CDT-2023/tree/main/precourse)
