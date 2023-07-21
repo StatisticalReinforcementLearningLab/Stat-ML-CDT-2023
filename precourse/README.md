@@ -5,5 +5,3 @@ We request that students install __Python version 3.8-3.11__ prior to the start 
 - [SciPy version 1.9.0 or greater](https://scipy.org/install/)
 - [Pandas](https://pandas.pydata.org/docs/getting_started/install.html)
 - [scikit-learn](https://scikit-learn.org/stable/install.html) 
-
-[Breakout Groups](https://docs.google.com/spreadsheets/d/1Xq5TKe36DvQmuvVMAWR5HkQpZO7YoJZS_2UDpuP-LzA/edit#gid=0)
